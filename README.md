@@ -1,6 +1,6 @@
 # Budget-Trackers
 This is a simple Budget Tracker application that allows you online and offline access and functionality
-<img src="images/Budget.png" width="300"/>
+<img src="images/Budget.png" width="800"/>
 
 # Use 
 
@@ -24,7 +24,7 @@ GIVEN a user is on Budget App without an internet connection
 WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 
-<img src="images/Budget-Offline.png" width="300"/>
+<img src="images/Budget-Offline.png" width="800"/>
 
 
 ## Business Context
